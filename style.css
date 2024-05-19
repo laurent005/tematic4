@@ -38,7 +38,7 @@ a:hover {
 }
 @media(max-width: 900px) {
     body {
-        font: 200 5px Verdana, Times, sans-serif;
+        font: 200 10px Verdana, Times, sans-serif;
     }
     .header {
         background-color: rgba(194, 201, 207, 0.308);
